@@ -2,14 +2,14 @@
 Find the number - Oxygen Project
 
 This is the goal: 
-  *Find the three-digits number*
-  *The digits do not repeat*
-  *There is no zero in any digits*
+  -Find the three-digits number-
+  -The digits do not repeat-
+  -There is no zero in any digits-
   
 These are the rules:
-  *You will write a *three digit* number and the program will tell you 
-  *if any of your numbers is *fixed-in-place*, *guessed* somewhere in there, or not there at all
-  *You can try numbers till you find the original one
+  -You will write a *three digit* number and the program will tell you 
+  -if any of your numbers is *fixed-in-place*, *guessed* somewhere in there, or not there at all
+  -You can try numbers till you find the original one
   
 Example:
   -Let *345* be the number we should find...
