@@ -2,9 +2,9 @@
 Find the number - Oxygen Project
 
 This is the goal: 
-  *Find the three-digits number
-  *The digits do not repeat
-  *There is no zero in any digits
+  *Find the three-digits number*
+  *The digits do not repeat*
+  *There is no zero in any digits*
   
 These are the rules:
   *You will write a *three digit* number and the program will tell you 
